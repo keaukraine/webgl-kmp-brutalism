@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/9faff6ce-b633-47d6-a080-b87b591a2d19)
+
 # WebGL Brutalism KMP demo
 
 Live demo page is available here: https://keaukraine.github.io/webgl-kmp-brutalism/index.html
