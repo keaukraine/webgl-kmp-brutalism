@@ -1,0 +1,15 @@
+{
+  "name": "KMP-library-shared",
+  "version": "1.0.0",
+  "main": "KMP-library-shared.js",
+  "types": "KMP-library-shared.d.ts",
+  "devDependencies": {
+    "typescript": "5.0.4"
+  },
+  "dependencies": {
+    "format-util": "^1.0.5"
+  },
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}
